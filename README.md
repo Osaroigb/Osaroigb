@@ -1,12 +1,12 @@
 ## Hi there! 👋 I'm Osaro
 
-I'm a passionate and experienced Backend Engineer with a strong focus on building scalable and efficient systems. Here's a bit more about me:
+I'm a passionate and experienced DevOps Engineer with a strong focus on designing and implementing scalable, efficient, and secure infrastructure. Here's a bit more about me:
 
-- 🔭 **Current Work**: Leading and contributing to various back end development projects.
-- 🌱 **Learning**: Currently diving into DevOps to enhance my understanding of CI/CD, infrastructure as code, and cloud management.
-- 👯 **Collaboration**: Open to collaborating on advanced backend open-source projects and contributing to the community.
-- 🤔 **Seeking Help**: Looking for insights and mentorship to excel further as a top-rated Software Engineer.
-- 💬 **Ask Me About**: Python, SQL, TypeScript, Flask, OOP, MongoDB, Django, Node.js, and back end architecture.
+- 🔭 **Current Work**: Designing and implementing scalable infrastructure, ensuring high availability and reliability.
+- 🌱 **Learning**: Expanding my skills in DevOps, focusing on containerization, orchestration, and cloud security.
+- 👯 **Collaboration**: Open to collaborating on DevOps projects, sharing knowledge on infrastructure as code, and CI/CD pipeline development.
+- 🤔 **Seeking Help**: Looking for guidance on optimizing cloud costs, improving monitoring and logging, and ensuring compliance.
+- 💬 **Ask Me About**: Terraform, Docker, Kubernetes, Prometheus, Grafana, ELK Stack, and DevOps best practices.
 - 📫 **Reach Me At**: [emmyigbinovia@gmail.com](mailto:emmyigbinovia@gmail.com)
 - 😄 **Pronouns**: He/Him
 - ⚡ **Fun Fact**: I love playing FIFA and enjoy competitive gaming.
