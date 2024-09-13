@@ -64,7 +64,7 @@ I'm a passionate and experienced DevOps Engineer with a strong focus on designin
   </a>
 <!--   <a href="https://www.vagrantup.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrant/vagrant-icon.svg" alt="vagrant" width="40" height="40"/>
   </a> -->
-  <a href="https://www.vagrantup.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-ar21.svg" alt="vagrant" width="40" height="40"/>
+  <a href="https://www.vagrantup.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/>
   </a>
   <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitmq" width="40" height="40"/>
   </a>
@@ -103,7 +103,7 @@ I'm a passionate and experienced DevOps Engineer with a strong focus on designin
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
   </a>
   <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
-  </a>https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg
+  </a>
 <!--   <a href="https://www.djangoproject.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/>
   </a> -->
   <a href="https://www.djangoproject.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="django" width="40" height="40"/>
@@ -122,7 +122,7 @@ I'm a passionate and experienced DevOps Engineer with a strong focus on designin
   </a>
 <!--   <a href="https://www.prisma.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/prisma/prisma-icon.svg" alt="prisma" width="40" height="40"/>
   </a> -->
-  <a href="https://www.prisma.io" target="_blank" rel="noreferrer"> <img src="https://github.com/detain/svg-logos/blob/master/svg/p/prisma-2.svg" alt="prisma" width="40" height="40"/>
+  <a href="https://www.prisma.io" target="_blank" rel="noreferrer"> <img src="https://github.com/gilbarbara/logos/blob/main/logos/prisma.svg" alt="prisma" width="40" height="40"/>
   </a>
   <a href="https://www.sqlite.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
   </a>
