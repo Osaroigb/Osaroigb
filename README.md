@@ -62,7 +62,9 @@ I'm a passionate and experienced DevOps Engineer with a strong focus on designin
   </a>
   <a href="https://www.ansible.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/>
   </a>
-  <a href="https://www.vagrantup.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrant/vagrant-icon.svg" alt="vagrant" width="40" height="40"/>
+<!--   <a href="https://www.vagrantup.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrant/vagrant-icon.svg" alt="vagrant" width="40" height="40"/>
+  </a> -->
+  <a href="https://www.vagrantup.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-ar21.svg" alt="vagrant" width="40" height="40"/>
   </a>
   <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitmq" width="40" height="40"/>
   </a>
@@ -74,8 +76,8 @@ I'm a passionate and experienced DevOps Engineer with a strong focus on designin
   </a>
   <a href="https://www.debian.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/debian/debian-icon.svg" alt="debian" width="40" height="40"/>
   </a>
-  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/github_actions/github_actions-icon.svg" alt="githubactions" width="40" height="40"/>
-  </a>
+<!--   <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/github_actions/github_actions-icon.svg" alt="githubactions" width="40" height="40"/>
+  </a> -->
   <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
   </a>
   <a href="https://www.heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
@@ -101,10 +103,14 @@ I'm a passionate and experienced DevOps Engineer with a strong focus on designin
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
   </a>
   <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
+  </a>https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg
+<!--   <a href="https://www.djangoproject.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/>
+  </a> -->
+  <a href="https://www.djangoproject.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="django" width="40" height="40"/>
   </a>
-  <a href="https://www.djangoproject.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/>
-  </a>
-  <a href="https://fastapi.tiangolo.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/fastapi/fastapi-icon.svg" alt="fastapi" width="40" height="40"/>
+<!--   <a href="https://fastapi.tiangolo.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/fastapi/fastapi-icon.svg" alt="fastapi" width="40" height="40"/>
+  </a> -->
+  <a href="https://fastapi.tiangolo.com" target="_blank" rel="noreferrer"> <img src="https://github.com/gilbarbara/logos/blob/main/logos/fastapi.svg" alt="fastapi" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
@@ -114,7 +120,9 @@ I'm a passionate and experienced DevOps Engineer with a strong focus on designin
   </a>
   <a href="https://nestjs.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="nestjs" width="40" height="40"/>
   </a>
-  <a href="https://www.prisma.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/prisma/prisma-icon.svg" alt="prisma" width="40" height="40"/>
+<!--   <a href="https://www.prisma.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/prisma/prisma-icon.svg" alt="prisma" width="40" height="40"/>
+  </a> -->
+  <a href="https://www.prisma.io" target="_blank" rel="noreferrer"> <img src="https://github.com/detain/svg-logos/blob/master/svg/p/prisma-2.svg" alt="prisma" width="40" height="40"/>
   </a>
   <a href="https://www.sqlite.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
   </a>
@@ -122,7 +130,9 @@ I'm a passionate and experienced DevOps Engineer with a strong focus on designin
   </a>
 </p>
 
-<p align="center">
+---
+
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=Osaroigb&style=flat-square&color=blueviolet" alt="profile views" />
 </p>
 
