@@ -19,6 +19,12 @@ I'm a passionate and experienced DevOps Engineer with a strong focus on designin
 
 ---
 
+### GitHub Streak
+
+![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Osaroigb&)
+
+---
+
 ### Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Osaroigb&layout=compact&theme=radical)
