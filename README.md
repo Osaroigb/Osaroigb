@@ -1,12 +1,12 @@
 ## Hi there! 👋 I'm Osaro
 
-I'm a passionate and experienced DevOps Engineer with a strong focus on designing and implementing scalable, efficient, and secure infrastructure. Here's a bit more about me:
+I'm a passionate and experienced Senior Backend Engineer with a strong focus on building scalable, efficient, and secure backend systems using Node.js. Here’s a bit more about me:
 
-- 🔭 **Current Work**: Designing and implementing scalable infrastructure, ensuring high availability and reliability.
-- 🌱 **Learning**: Expanding my skills in DevOps, focusing on containerization, orchestration, and cloud security.
-- 👯 **Collaboration**: Open to collaborating on DevOps projects, sharing knowledge on infrastructure as code, and CI/CD pipeline development.
-- 🤔 **Seeking Help**: Looking for guidance on optimizing cloud costs, improving monitoring and logging, and ensuring compliance.
-- 💬 **Ask Me About**: Terraform, Docker, Kubernetes, Prometheus, Grafana, ELK Stack, and DevOps best practices.
+- 🔭 Current Work: Designing and implementing robust backend architectures that ensure high performance and reliability for modern applications.
+- 🌱 Learning: Continuously expanding my skills in backend development, with a focus on microservices, API design, and performance optimization.
+- 👯 Collaboration: Open to collaborating on backend projects, sharing knowledge on best practices for Node.js development, and contributing to code reviews and architecture discussions.
+- 🤔 Seeking Help: Looking for insights on optimizing database performance, enhancing API security, and implementing effective monitoring solutions.
+- 💬 Ask Me About: Node.js, Express, MongoDB, PostgreSQL, RESTful APIs, GraphQL, and backend development best practices.
 - 📫 **Reach Me At**: [emmyigbinovia@gmail.com](mailto:emmyigbinovia@gmail.com)
 - 😄 **Pronouns**: He/Him
 - ⚡ **Fun Fact**: I love playing FIFA and enjoy competitive gaming.
@@ -50,6 +50,42 @@ I'm a passionate and experienced DevOps Engineer with a strong focus on designin
   </a>
 </p>
 
+<h4 align="left">Backend:</h4>
+<p align="left">
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  </a>
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a> 
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  </a>
+  <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
+  </a>
+  <a href="https://www.djangoproject.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="django" width="40" height="40"/>
+  </a>
+  <a href="https://fastapi.tiangolo.com" target="_blank" rel="noreferrer"> <img src="https://github.com/gilbarbara/logos/blob/main/logos/fastapi.svg" alt="fastapi" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+  <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
+  </a>
+  <a href="https://maven.apache.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-icon.svg" alt="maven" width="40" height="40"/>
+  </a>
+  <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitmq" width="40" height="40"/>
+  </a>
+  <a href="https://nestjs.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="nestjs" width="40" height="40"/>
+  </a>
+  <a href="https://www.prisma.io" target="_blank" rel="noreferrer"> <img src="https://github.com/gilbarbara/logos/blob/main/logos/prisma.svg" alt="prisma" width="40" height="40"/>
+  </a>
+  <a href="https://www.sqlite.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
+  </a>
+  <a href="https://sequelize.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg" alt="sequelize" width="40" height="40"/>
+  </a>
+</p>
+
 <h4 align="left">DevOps:</h4>
 <p>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
@@ -68,20 +104,16 @@ I'm a passionate and experienced DevOps Engineer with a strong focus on designin
   </a>
   <a href="https://www.ansible.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/>
   </a>
-<!--   <a href="https://www.vagrantup.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrant/vagrant-icon.svg" alt="vagrant" width="40" height="40"/>
+<!--   <a href="https://www.vagrantup.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/>
   </a> -->
-  <a href="https://www.vagrantup.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/>
-  </a>
-  <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitmq" width="40" height="40"/>
-  </a>
-  <a href="https://azure.microsoft.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
+<!--   <a href="https://azure.microsoft.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
   </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-  </a>
-  <a href="https://bitbucket.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-icon.svg" alt="bitbucket" width="40" height="40"/>
+  </a> -->
+<!--   <a href="https://bitbucket.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-icon.svg" alt="bitbucket" width="40" height="40"/>
   </a>
   <a href="https://www.debian.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/debian/debian-icon.svg" alt="debian" width="40" height="40"/>
-  </a>
+  </a> -->
 <!--   <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/github_actions/github_actions-icon.svg" alt="githubactions" width="40" height="40"/>
   </a> -->
   <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
@@ -92,48 +124,8 @@ I'm a passionate and experienced DevOps Engineer with a strong focus on designin
   </a>
   <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="40" height="40"/>
   </a>
-  <a href="https://www.ubuntu.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" width="40" height="40"/>
-  </a>
-</p>
-
-<h4 align="left">Backend:</h4>
-<p align="left">
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
-  </a>
-<!--   <a href="https://www.djangoproject.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/>
+<!--   <a href="https://www.ubuntu.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" width="40" height="40"/>
   </a> -->
-  <a href="https://www.djangoproject.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="django" width="40" height="40"/>
-  </a>
-<!--   <a href="https://fastapi.tiangolo.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/fastapi/fastapi-icon.svg" alt="fastapi" width="40" height="40"/>
-  </a> -->
-  <a href="https://fastapi.tiangolo.com" target="_blank" rel="noreferrer"> <img src="https://github.com/gilbarbara/logos/blob/main/logos/fastapi.svg" alt="fastapi" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
-  </a>
-  <a href="https://maven.apache.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-icon.svg" alt="maven" width="40" height="40"/>
-  </a>
-  <a href="https://nestjs.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="nestjs" width="40" height="40"/>
-  </a>
-<!--   <a href="https://www.prisma.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/prisma/prisma-icon.svg" alt="prisma" width="40" height="40"/>
-  </a> -->
-  <a href="https://www.prisma.io" target="_blank" rel="noreferrer"> <img src="https://github.com/gilbarbara/logos/blob/main/logos/prisma.svg" alt="prisma" width="40" height="40"/>
-  </a>
-  <a href="https://www.sqlite.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-  </a>
-  <a href="https://sequelize.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg" alt="sequelize" width="40" height="40"/>
-  </a>
 </p>
 
 ---
