@@ -1,12 +1,12 @@
 ## Hi there! 👋 I'm Osaro
 
-I'm a passionate and experienced Backend Engineer with a strong focus on building scalable, efficient, and secure backend systems using Node.js. Here’s a bit more about me:
+I'm a passionate and experienced Backend Engineer with a strong focus on building scalable, efficient, and secure backend systems using Node.js, Flask and Django. Here’s a bit more about me:
 
 - 🔭 Current Work: Designing and implementing robust backend architectures that ensure high performance and reliability for modern applications.
 - 🌱 Learning: Continuously expanding my skills in backend development, with a focus on microservices, API design, and performance optimization.
 - 👯 Collaboration: Open to collaborating on backend projects, sharing knowledge on best practices for Node.js development, and contributing to code reviews and architecture discussions.
 - 🤔 Seeking Help: Looking for insights on optimizing database performance, enhancing API security, and implementing effective monitoring solutions.
-- 💬 Ask Me About: Node.js, Express, MongoDB, PostgreSQL, RESTful APIs, GraphQL, and backend development best practices.
+- 💬 Ask Me About: Node.js, Flask, Express.js, Django, Nest.js, MongoDB, PostgreSQL, RESTful APIs, GraphQL, and backend development best practices.
 - 📫 **Reach Me At**: [emmyigbinovia@gmail.com](mailto:emmyigbinovia@gmail.com)
 - 😄 **Pronouns**: He/Him
 - ⚡ **Fun Fact**: I love playing FIFA and enjoy competitive gaming.
