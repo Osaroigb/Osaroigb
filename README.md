@@ -1,6 +1,6 @@
 ## Hi there! 👋 I'm Osaro
 
-I'm a passionate and experienced Senior Backend Engineer with a strong focus on building scalable, efficient, and secure backend systems using Node.js. Here’s a bit more about me:
+I'm a passionate and experienced Backend Engineer with a strong focus on building scalable, efficient, and secure backend systems using Node.js. Here’s a bit more about me:
 
 - 🔭 Current Work: Designing and implementing robust backend architectures that ensure high performance and reliability for modern applications.
 - 🌱 Learning: Continuously expanding my skills in backend development, with a focus on microservices, API design, and performance optimization.
