@@ -21,7 +21,7 @@ I'm a passionate and experienced Backend Engineer with a strong focus on buildin
 
 ### GitHub Streak
 
-![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Osaroigb&)
+![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?username=Osaroigb&theme=dark)
 
 ---
 
